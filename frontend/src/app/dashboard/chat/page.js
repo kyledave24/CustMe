@@ -18,26 +18,13 @@ import { Phone, VideoCall, MoreHoriz, Send, Search as SearchIcon } from "@mui/ic
 export default function Messages() {
   const messages = [
     {
-      name: "Luila Toledo",
-      status: "Online",
-      avatar: "https://bootdey.com/img/Content/avatar/avatar5.png",
-      unread: 5,
-      online: true,
-    },
-    {
       name: "Jrea Divino",
       status: "Online",
       avatar: "https://bootdey.com/img/Content/avatar/avatar2.png",
       unread: 2,
       online: true,
     },
-    {
-      name: "Lany Nazareno",
-      status: "Online",
-      avatar: "https://bootdey.com/img/Content/avatar/avatar3.png",
-      unread: 0,
-      online: true,
-    },
+    
     {
       name: "Kyle Dave Cabatas",
       status: "Offline",
